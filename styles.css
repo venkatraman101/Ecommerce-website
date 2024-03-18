@@ -253,7 +253,7 @@ body{
         flex-direction: column;
     }
     .new-arrival{
-        flex-direction: row;
+        flex-direction: none;
     }
     }
 
